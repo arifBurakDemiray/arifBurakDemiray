@@ -7,6 +7,7 @@
 📫 How to reach me:  
 
 [![](https://img.shields.io/badge/-Arif%20Burak%20Demiray-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](http://www.linkedin.com/in/arifBurakDemiray) 
+[![](https://img.shields.io/badge/-demiray.dev-informational?style=flat&logo=firefox-browser&logoColor=white&color=000)](https://demiray.dev) 
 ![](https://img.shields.io/badge/-burakdemiray09%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=c71610) 
 <!--
 - 🔭 I’m currently working on ...
@@ -30,7 +31,10 @@ const dan = {
   tools: ['Jest', 'Cypress', 'Swagger'],
 }
 ```-->
+Environment:
+
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E) ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000)
 
 :man_technologist: Code: 
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1F6FEB)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&color=1F6FEB) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1F6FEB) ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=1F6FEB)

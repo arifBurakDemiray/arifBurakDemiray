@@ -7,7 +7,7 @@
 📫 How to reach me:  
 
 [![](https://img.shields.io/badge/-Arif%20Burak%20Demiray-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](http://www.linkedin.com/in/arifBurakDemiray) 
-[![](https://img.shields.io/badge/-demiray.dev-informational?style=flat&logo=firefox-browser&logoColor=white&color=000)](https://demiray.dev) 
+[![](https://img.shields.io/badge/-demiray.dev-informational?style=flat&logo=firefox-browser&logoColor=white&color=062020)](https://demiray.dev) 
 ![](https://img.shields.io/badge/-burakdemiray09%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=c71610) 
 <!--
 - 🔭 I’m currently working on ...

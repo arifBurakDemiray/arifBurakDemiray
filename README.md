@@ -33,7 +33,7 @@ const dan = {
 ```-->
 Environment:
 
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E) ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E) ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000) ![](https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF)
 
 :man_technologist: Code: 
 

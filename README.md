@@ -41,4 +41,4 @@ Environment:
 
 Use:
 
-![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=swagger&logoColor=white&color=85EA2D) ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37) ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC) ![](https://img.shields.io/badge/Azure_Devops-informational?style=flat&logo=azure-devops&logoColor=white&color=0078D7)
+![](https://img.shields.io/badge/Swagger-informational?style=flat&logo=swagger&logoColor=white&color=85EA2D) ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37) ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC) ![](https://img.shields.io/badge/Azure_Devops-informational?style=flat&logo=azure-devops&logoColor=white&color=0078D7) ![](https://img.shields.io/badge/Azure_Devops_WIQL-informational?style=flat&logo=azure-devops&logoColor=white&color=0078D7)

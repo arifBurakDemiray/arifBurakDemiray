@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/-Arif%20Burak%20Demiray-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](http://www.linkedin.com/in/arifBurakDemiray) 
 [![](https://img.shields.io/badge/-demiray.dev-informational?style=flat&logo=firefox-browser&logoColor=white&color=062020)](https://demiray.dev) 
-![](https://img.shields.io/badge/-info%40burakdemiray.tech-informational?style=flat&logo=mail.ru&logoColor=white&color=494949) 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

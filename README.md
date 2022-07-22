@@ -7,7 +7,7 @@
 📫 How to reach me:  
 
 [![](https://img.shields.io/badge/-Arif%20Burak%20Demiray-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](http://www.linkedin.com/in/arifBurakDemiray) 
-[![](https://img.shields.io/badge/-demiray.dev-informational?style=flat&logo=firefox-browser&logoColor=white&color=062020)](https://demiray.dev) 
+[![](https://img.shields.io/badge/-Send%20Email-informational?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4)](mailto:burakdemiray09@hotmail.com) 
 
 <!--
 - 🔭 I’m currently working on ...

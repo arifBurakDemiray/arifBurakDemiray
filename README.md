@@ -1,5 +1,5 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifBurakDemiray&count_private=true&show_icons=true&theme=github_dark&layout=compact&langs_count=10"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifBurakDemiray&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
-
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifBurakDemiray&count_private=true&show_icons=true&theme=github_dark&layout=compact&langs_count=10"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifBurakDemiray&line_height=28&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
+`-->
  ---
  ## Hello! I'm Arif 👋 :biking_man:
  
